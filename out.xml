@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iet>
+    <SAVELABLE TEXT="プロローグ"/>
+    <cm/>
+    <bg_hyojib bgb="t04_title01.png"/>
+    <i_kirikae/>
+    <wait time="2000"/>
+    <call file="sub.iet" label="h12_set_mw"/>
+    <bg_hyojib bgb="bg_black.png"/>
+    <bg_kirikae/>
+    <bgm bgm="haru_bgm_02_aoi_sakura" lp="true"/>
+    <page>
+        <line>　桜の花びらが落ちる。その一続きが僕の目に映る。</line>
+        <line>　強い風が吹く。腕を前にかざすようにして遮る。</line>
+    </page>
+    <page>
+        <line>　それでも目の奥が痛むようで、瞼を閉じたままでいなければならなかった。</line>
+        <line>　強い力はいつだって直視から遠ざかる。</line>
+    </page>
+    <fbgm/>
+    <se se="SE_sakurawind.wav" lp="false"/>
+    <wait time="1500"/>
+    <bg_hyojib bgb="bg_t04_stat1.png"/>
+    <bg_kirikae/>
+    <bgm bgm="haru_bgm_07_normal" lp="true"/>
+    <char_c tatie="st_mizu4d.png"/>
+    <page>
+        <line char="mizu4d">「うひゃう」</line>
+        <line char="mizu4d">　[ruby text="とおやま"]遠山[/ruby][ruby text="みずほ"]瑞穂[/ruby]が妙な声を出す。</line>
+        <line char="mizu4d">　数秒のうちに、風が弱まってゆく。僕はさらに少し待ってから腕を下ろした。</line>
+    </page>
+    <char_all_clear/>
+    <char_l tatie="st_sana1d.png"/>
+    <char_r tatie="st_kouh1d.png"/>
+    <page>
+        <line char="sana1d kouh1d">「今のすごかったよー」</line>
+        <line char="sana1d kouh1d">「もう春になっちまったのさね」</line>
+        <line char="sana1d kouh1d">　[ruby text="もりの"]森野[/ruby][ruby text="さなえ"]早苗[/ruby]、そして[ruby
+            text="とおやま"]遠山[/ruby][ruby text="こうへい"]耕平[/ruby]がうなずきあう。僕にはわからない了解があるらしい。
+        </line>
+    </page>
+    <char_r tatie="st_kouh2d.png"/>
+    <page>
+        <line char="sana1d kouh2d">「あの風だものな」</line>
+        <line char="sana1d kouh2d">　足下にはまっすぐな白線が引かれている。</line>
+        <line char="sana1d kouh2d">　目に映った桜の花びらはそこにない。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>「……あれ？」</line>
+    </page>
+    <char_c tatie="st_yuki1.png"/>
+    <page>
+        <line char="yuki1">「[ruby text="まさき"]柾木[/ruby]？」</line>
+        <line char="yuki1">　すぐ目の前を歩いていた[ruby text="と"]十[/ruby][ruby text="わ"]和[/ruby][ruby text="だ"]田[/ruby][ruby
+            text="ゆき"]雪[/ruby]が僕を振り返る。
+        </line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>「いや、何でも……雪、桜の花びらがついてる。首のところ」</line>
+        <line>　僕は自分の首を指さす。</line>
+    </page>
+    <char_c tatie="st_yuki1.png"/>
+    <page>
+        <line char="yuki1">「ああ、家の前を通ったからだろう」</line>
+        <line char="yuki1">　雪は納得したように、自分の首をなでる。</line>
+    </page>
+    <char_all_clear/>
+    <char_l tatie="st_sana1d.png"/>
+    <char_r tatie="st_yuki1.png"/>
+    <page>
+        <line char="sana1d yuki1">「雪んちの桜はもう咲いてるんだ」</line>
+        <line char="sana1d yuki1">「南側の山桜は八分咲き。北側のソメイヨシノはまだかかる」</line>
+        <line char="sana1d yuki1">　彼女の表情は動かない。口調はいつだって簡潔だ。</line>
+    </page>
+    <char_l tatie="st_kouh2d.png"/>
+    <char_r tatie="st_yuki3.png"/>
+    <page>
+        <line char="kouh2d yuki3">「自分の家の中を方角で示すってのは、いつ聞いても慣れないな」</line>
+        <line char="kouh2d yuki3">「仕方ない。長年仕えている女中でも戸惑うことがあるのだ」</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_yuki1.png"/>
+    <page>
+        <line char="yuki1">「取ってほしい」</line>
+        <line char="yuki1">　雪のその静かな声は、電車の到着を告げる音で消え入りそうだった。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>　彼女は俯くようにして首筋をさらしていた。</line>
+        <line>　白い首筋、そこになお白い山桜のひとひらがある。</line>
+    </page>
+    <char_c tatie="st_yuki7.png"/>
+    <page>
+        <line char="yuki7">「え……僕がやるの？」</line>
+        <line char="yuki7">「君にしか、触れられたくない」</line>
+    </page>
+    <char_all_clear/>
+    <char_l tatie="st_mizu2d.png"/>
+    <char_r tatie="st_kouh1d.png"/>
+    <char_c tatie="st_sana3d.png"/>
+    <page>
+        <line char="mizu2d kouh1d sana3d">「うぁお」</line>
+        <line char="mizu2d kouh1d sana3d">「こんなところで見せつけてくれますねえ」</line>
+        <line char="mizu2d kouh1d sana3d">「舐めとってしまうがいいさー」</line>
+        <line char="mizu2d kouh1d sana3d">　瑞穂たちが、勝手なことを言ってくれる。</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_yuki1.png"/>
+    <char_all_clear/>
+    <page>
+        <line>「……わかったよ。動かないで」</line>
+        <line>「舐めるのか？」</line>
+        <line>「やりません！」</line>
+        <line>　僕は手を伸ばす。</line>
+    </page>
+    <page>
+        <line>　不意に、問いが浮かんだ。</line>
+        <line>　あの強い風で、どうして僕の目に映っていた桜の花びらは真下に落ちた？</line>
+        <line>　――そもそも、この駅のホームの何処に桜の木がある？</line>
+    </page>
+    <page>
+        <line>　――だとしたら。</line>
+    </page>
+    <char_c tatie="st_yuki3.png"/>
+    <char_all_clear/>
+    <page>
+        <line>「僕は、何を見た？」</line>
+        <line>「…首が痛くなってきたのだが」</line>
+        <line>　雪の肌が微かに赤く色づいていた。</line>
+        <line>　桜の白が際だつ。</line>
+    </page>
+    <page>
+        <line>　僕の目が細まる。</line>
+        <line>　何かの違和感を確かに認識している。</line>
+        <line>　その原因を僕の目は見ている。それでいてわからない。</line>
+        <line>　雪の首筋、桜の白、重なるものは。</line>
+    </page>
+    <page>
+        <line>「――あお」</line>
+        <line>　それは、桜の花にありえない、薄い青の色だった。</line>
+        <line>　僕の指が花びらをつまみとった。</line>
+    </page>
+    <char_c tatie="st_mizu1d.png"/>
+    <char_c tatie="st_mizu2d.png"/>
+    <char_c tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d">「どうしちゃいました？」</line>
+        <line char="kouh1d">「ぼうっとした」</line>
+        <line char="kouh1d">「どうしてまた」</line>
+        <line char="kouh1d">「春のせいかな」</line>
+        <line char="kouh1d">「太陽が黄色かったせいじゃないかや」</line>
+        <line char="kouh1d">「僕は人生の理不尽と戦っているつもりは――」</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>　この町に来てからのことを思い返した。</line>
+    </page>
+    <page>
+        <line>「――いくらかはあるんだけど」</line>
+    </page>
+    <char_c tatie="st_sana2d.png"/>
+    <page>
+        <line char="sana2d">「んー、なんかそれ私たちが悪人みたいな言われようなんだけど」</line>
+        <line char="sana2d">　僕は三人の目をじっと見つめる。</line>
+    </page>
+    <char_c tatie="st_kouh3d.png"/>
+    <page>
+        <line char="kouh3d">「よせよ……、いくら俺のことが気になってるからってこんな人前じゃ照れるさね」</line>
+        <line char="kouh3d">　思いは届かなかったようだ。</line>
+    </page>
+    <char_c tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d">「そろそろかや」</line>
+        <line char="kouh1d">　耕平が頭上のスピーカを見上げた。</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_yuki2.png"/>
+    <page>
+        <line char="yuki2">「こっち」</line>
+        <line char="yuki2">「む。どうしてわざわざ端にゆくのだ」</line>
+    </page>
+    <page>
+        <line char="yuki2">「[ruby text="ぬき"]貫[/ruby]が乗った電車の駅、階段が先頭車両近くにあるんだ」</line>
+    </page>
+    <char_c tatie="st_mizu3d.png"/>
+    <char_all_clear/>
+    <page>
+        <line>「だからって、そこから直接乗ったとは限らないんじゃ？」</line>
+        <line>「ギリギリで乗りこんだはずだから、こっち」</line>
+        <line>　僕の後を雪たちがついてくる。反対する理由もなかったようだ。</line>
+    </page>
+    <char_c tatie="st_mizu1d.png"/>
+    <char_c tatie="st_kouh3d.png"/>
+    <page>
+        <line char="kouh3d">「貫ちゃんって柾木さんの従姉妹なんですよね？」</line>
+        <line char="kouh3d">「どんな子なのさね。お前みたいにけったいな奴なのかや」</line>
+    </page>
+    <char_c tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d">「どういう意味」</line>
+        <line char="kouh1d">「そういう意味」</line>
+        <line char="kouh1d">　少し落ちこんだ。</line>
+    </page>
+    <char_c tatie="st_yuki3.png"/>
+    <char_c tatie="st_yuki1.png"/>
+    <page>
+        <line char="yuki1">「ああ……、なんだか緊張してきた」</line>
+        <line char="yuki1">「大丈夫。貫は誰とでもつきあえる性格だ」</line>
+        <line char="yuki1">「そうか。とはいえ、お義姉さんと呼ばれるのは[ruby text="おもは"]面映[/ruby]ゆそうだから心の準備をしているのだ」</line>
+    </page>
+    <page>
+        <line char="yuki1">「何段かステップをすっ飛ばしているかと思われるのですが雪様」</line>
+    </page>
+    <char_c tatie="st_sana3d.png"/>
+    <page>
+        <line char="sana3d">「ステップを踏むつもりはあるんだ」</line>
+        <line char="sana3d">　最近、僕の（人生の）逃げ道が削られつつあるようだ。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>「これだから現実は救いがたい」</line>
+        <line>　手のひらにはまだ桜の花が残っていた。</line>
+    </page>
+    <char_c tatie="st_yuki1.png"/>
+    <page>
+        <line char="yuki1">「うん？」</line>
+        <line char="yuki1">「それか」</line>
+        <line char="yuki1">　雪がいつの間にか僕のすぐ横にいた。あまり視力がよくないからか、少し前屈み気味になっている。また彼女の首筋が吐息の届く距離に近づいていた。</line>
+    </page>
+    <char_c tatie="st_yuki7.png"/>
+    <char_c tatie="st_yuki2.png"/>
+    <char_all_clear/>
+    <page>
+        <line>「珍しいだろう」</line>
+        <line>「いや、ここまで綺麗なのはそう何人も」</line>
+        <line>「む。何を言っている」</line>
+        <line>「青いね」</line>
+        <line>　僕は強引に話題を引き戻す。</line>
+    </page>
+    <page>
+        <line>　よく見なければ気づかないほどの違いだ。白だと思っていた色は微かに青みがかっている。</line>
+    </page>
+    <char_c tatie="st_yuki1.png"/>
+    <char_c tatie="st_yuki7.png"/>
+    <page>
+        <line char="yuki7">「神の桜だ」</line>
+        <line char="yuki7">「聞いたことない」</line>
+        <line char="yuki7">「学者先生も見たことがないと言っていた。多紙の桜は特殊な色素が含まれていて、光の加減で青っぽくなる」</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>「ふぅん」</line>
+        <line>　僕はつまんだ桜を日差しにかざしてみる。確かに、そうするとさらに青味がはっきりと見えた。</line>
+    </page>
+    <char_c tatie="st_yuki2.png"/>
+    <char_all_clear/>
+    <page>
+        <line>「でも、言われないとわからないね」</line>
+        <line>「神の娘が残した奇跡だと言われているのだが……、アレの娘がそんな大層な事をしたとはどうにも信じがたい」</line>
+        <line>　僕らはこの土地を守る神、その姿を思い浮かべる。</line>
+    </page>
+    <page>
+        <line>「……はぁ」</line>
+        <line>　全員、ため息。</line>
+    </page>
+    <char_l tatie="st_sana1d.png"/>
+    <char_l tatie="st_sana1d.png"/>
+    <char_r tatie="st_yuki1.png"/>
+    <char_l tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d yuki1">「今年はどうするのー？」</line>
+        <line char="kouh1d yuki1">「いつもどおりでいいだろう」</line>
+        <line char="kouh1d yuki1">「んだな」</line>
+        <line char="kouh1d yuki1">　僕は黙っていた。</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d">「花見。毎年やっとるのさね」</line>
+        <line char="kouh1d">　耕平が補足してくれた。十和田家の持ち物である山には山桜の群生している場所があり、毎年夜に花見をしているのだと説明された。</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_sana4d.png"/>
+    <char_c tatie="st_sana2d.png"/>
+    <page>
+        <line char="sana2d">「そう」</line>
+        <line char="sana2d">「またそんな顔するー」</line>
+        <line char="sana2d">「どんな顔？」</line>
+        <line char="sana2d">「『僕はまだこの土地じゃよそ者です』って顔」</line>
+        <line char="sana2d">　早苗の指摘は正しい、だから僕は言い返す言葉がなかった。</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_mizu2d.png"/>
+    <char_c tatie="st_mizu1d.png"/>
+    <page>
+        <line char="mizu1d">「今年は新入りが二人も来るんだから、楽しくなりますよ」</line>
+        <line char="mizu1d">「二人」</line>
+        <line char="mizu1d">「柾木さんと、貫ちゃん」</line>
+        <line char="mizu1d">　言って、瑞穂が笑った。少し、僕の救いがたさが薄れた。</line>
+    </page>
+    <char_all_clear/>
+    <se se="SE_TrainComes.wav" lp="false"/>
+    <bg_hyojib bgb="bg_black.png"/>
+    <bg_kirikae/>
+    <wait time="9000"/>
+    <bg_hyojib bgb="bg_t04_stat2.png"/>
+    <bg_kirikae/>
+    <fse/>
+    <page>
+        <line>「来た」</line>
+        <line>　四両編成の電車が停車、僕たちの目の前で降車扉が真横に開いてゆく。</line>
+        <line>　ガラスの向こうに貫らしい姿が見えたから、僕は手を挙げる。</line>
+    </page>
+    <fbgm/>
+    <char_c tatie="st_nuki3.png"/>
+    <page>
+        <line char="nuki3">「柾木ちゃん約束通りやってきたのだよ！」</line>
+    </page>
+    <bgm bgm="haru_bgm_08_dash" lp="true"/>
+    <se se="se_kick_01.wav" lp="false"/>
+    <qk tm="1000"/>
+    <page>
+        <line char="nuki3">　手を挙げた格好のまま僕の身体は『くの字』になって真後ろへ。</line>
+        <line char="nuki3">「うおっ！？」</line>
+        <line char="nuki3">　反射神経に優れた耕平は早苗を抱き寄せて真横へ回避する。</line>
+    </page>
+    <se se="se_down.wav" lp="false"/>
+    <qk tm="1000"/>
+    <page>
+        <line char="nuki3">　だから僕はタックルの勢いを殺すことができないままホームに叩きつけられた。</line>
+    </page>
+    <char_c tatie="st_mizu2d.png"/>
+    <char_c tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d">「柾木さんって毎回ワイヤーアクションぽく吹っ飛んでるよね」</line>
+        <line char="kouh1d">「受け身の練習でもしとくかや。つきあってやるぞ」</line>
+        <line char="kouh1d">　いい案だと思った。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>「んーんー、柾木ちゃんのにおいー」</line>
+        <line>　貫が仰向けになった僕の胸の上に、犬っぽく顔をこすりつける。</line>
+    </page>
+    <page>
+        <line>「体当たりはもうしないって約束はどうなった？」</line>
+    </page>
+    <page>
+        <line>「うはは」</line>
+        <line>　ごまかされた。どうして僕との約束は誰も守ってくれないのかと息を吐く。</line>
+        <line>「離れて」</line>
+        <line>　投げ出されていた手を動かし、彼女の額を前に押す。</line>
+    </page>
+    <page>
+        <line>「これはレディに対してずいぶんとご無体な扱いだと思うのだよ？」</line>
+        <line>「重たいから」</line>
+        <line>「苛烈な！」</line>
+        <line>　ようやく顔が見えた。</line>
+    </page>
+    <char_c tatie="st_nuki1.png"/>
+    <page>
+        <line char="nuki1">「久しぶり、貫」</line>
+        <line char="nuki1">「柾木ちゃんも」</line>
+        <line char="nuki1">　僕はのしかかってくる貫の身体の下から抜け出す。</line>
+    </page>
+    <char_c tatie="st_kouh1d.png"/>
+    <page>
+        <line char="kouh1d">「なんか、ずいぶんと強烈だな」</line>
+        <line char="kouh1d">　にっ、と耕平が笑う。</line>
+    </page>
+    <char_c tatie="st_mizu1d.png"/>
+    <wait time="500"/>
+    <char_c tatie="st_mizu2d.png"/>
+    <page>
+        <line char="mizu2d">の――」</line>
+        <line char="mizu2d">　その場の全員は前を向いて。</line>
+    </page>
+    <char_c tatie="st_mizu3d.png"/>
+    <char_c tatie="st_nuki2.png"/>
+    <page>
+        <line char="nuki2">「――何センチ、あるの？」</line>
+        <line char="nuki2">「百八十八センチ！」</line>
+        <line char="nuki2">　そして上を見上げた。</line>
+    </page>
+    <char_c tatie="st_mizu2d.png"/>
+    <page>
+        <line char="mizu2d">「うをでけー。何食ったらそんなんなるの」</line>
+        <line char="mizu2d">　頭一つ以上身長差のある瑞穂は、目を丸くする。</line>
+    </page>
+    <char_c tatie="st_nuki1.png"/>
+    <char_c tatie="st_sana3d.png"/>
+    <page>
+        <line char="sana3d">「バレーやろうぜバレー！　そしたらでっかくなるよ！」</line>
+        <line char="sana3d">「あー、うちの学校はバレーまぁまぁ強かったねー」</line>
+        <line char="sana3d">　早苗が変なところで納得している。</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_nuki2.png"/>
+    <char_c tatie="st_mizu2d.png"/>
+    <char_c tatie="st_nuki1.png"/>
+    <page>
+        <line char="nuki1">「バレー特待生で進学すると思っていたけど」</line>
+        <line char="nuki1">「ぜんぶ落ちた！」</line>
+        <line char="nuki1">「明るくゆわれても」</line>
+        <line char="nuki1">「本番に弱いの、まだ治ってない？」</line>
+        <line char="nuki1">「柾木ちゃんがいなかったからね。いるときは全戦全勝さ」</line>
+    </page>
+    <page>
+        <line char="nuki1">「受験に同席するわけにはいかないだろう」</line>
+    </page>
+    <char_all_clear/>
+    <bg_hyojib bgb="bg_black.png"/>
+    <bg_kirikae/>
+    <se se="SE_TrainLeaves.wav" lp="false"/>
+    <page>
+        <line>　体格、技術において[ruby text="こんの"]紺野[/ruby][ruby
+            text="ぬき"]貫[/ruby]は突き抜けている。僕は見たことがないのだけれど、貫は本番になるとどうしてか結果が残せない。
+        </line>
+        <line>　電車がホームを離れてゆく。</line>
+    </page>
+    <wait time="4000"/>
+    <wait time="1000"/>
+    <bg_hyojib bgb="bg_t04_stat1.png"/>
+    <bg_kirikae/>
+    <char_c tatie="st_nuki1.png"/>
+    <char_c tatie="st_nuki2.png"/>
+    <char_all_clear/>
+    <se se="se_kick_01.wav" lp="false"/>
+    <qk tm="500"/>
+    <page>
+        <line>「同席アリだったら来てくれた？」</line>
+        <line>「貫だからね、行くよ」</line>
+        <line>「うは、照れる！」</line>
+        <line>　貫の腕が閃いた。</line>
+        <line>「バックアタック！」</line>
+    </page>
+    <page>
+        <line>　僕の頭はバレーボール同然だった。斜め下に吹き飛びホームのアスファルトに衝突、身体が一メートルの高さまで跳ねた。</line>
+    </page>
+    <char_c tatie="st_mizu4d.png"/>
+    <page>
+        <line char="mizu4d">「生きてる……、よね？」</line>
+    </page>
+    <char_all_clear/>
+    <char_c tatie="st_nuki2.png"/>
+    <page>
+        <line char="nuki2">「うはー、都会の[ruby text="けんそう"]喧噪[/ruby]から離れてビルドアップしたと思ったのに。柾木ちゃんもヤワいままなのはいかんと思うのだよ」</line>
+        <line char="nuki2">「場所は関係ない……、というかスパイクしないって約束は？」</line>
+    </page>
+    <char_c tatie="st_nuki1.png"/>
+    <page>
+        <line char="nuki1">「やっぱバレーやらないからそうなるんだよ」</line>
+        <line char="nuki1">　聞いちゃいなかった。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>　ホームに降りた客はまばらだった。何人かは無人の改札へと向かって行く。</line>
+    </page>
+    <char_r tatie="st_yuki2.png"/>
+    <page>
+        <line char="yuki2">「柾木、君の身体はこの町にとって大切なのだ。軽率さは敵だぞ」</line>
+    </page>
+    <char_l tatie="st_nuki1.png"/>
+    <char_r tatie="st_yuki1.png"/>
+    <char_l tatie="st_nuki2.png"/>
+    <char_r tatie="st_yuki7.png"/>
+    <page>
+        <line char="yuki7 nuki2">「この古き良きジャパニーズさんは誰ですか？」</line>
+        <line char="yuki7 nuki2">「十和田雪だ。仲良くやろう」</line>
+        <line char="yuki7 nuki2">「柾木ちゃんとどんな関係？」</line>
+        <line char="yuki7 nuki2">「妻だ」</line>
+        <line char="yuki7 nuki2">　雪は言い切った。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>　ホームにダウンしたままの僕の頭上で、雪と貫がなにやら言い合っていた。騒いでいるのは僕たちだけで、不思議と周囲の静けさが感じられる。</line>
+        <line>　いま立ち上がれば、口論に巻きこまれてしまう。もう少しだけ、このままで。</line>
+    </page>
+    <fbgm/>
+    <se se="SE_sakurawind.wav" lp="false"/>
+    <page>
+        <line>　また、強い風が吹く。</line>
+    </page>
+    <bgm bgm="haru_bgm_12_kawarukoto" lp="true"/>
+    <page>
+        <line>　ホームの白線、その上にとどまった神の桜。</line>
+        <line>　あるかなしかの青が、僕の目から離れない。</line>
+        <line>　暖かいようで、どこか冷たい突風が花びらを真上にさらってゆく。</line>
+        <line>　春の足音、そんなことを僕は思う。</line>
+    </page>
+    <page>
+        <line>「――楽しそうだね」</line>
+    </page>
+    <page>
+        <line>　声。</line>
+        <line>　そして、僕の視界に信じられないくらい細い両脚が入りこむ。</line>
+    </page>
+    <char_l tatie="st_mizu2d.png"/>
+    <char_r tatie="st_kouh5d.png"/>
+    <page>
+        <line char="mizu2d kouh5d">「ふえ！？」</line>
+        <line char="mizu2d kouh5d">　瑞穂の呼吸が止まった。</line>
+        <line char="mizu2d kouh5d">「嘘だろ」</line>
+        <line char="mizu2d kouh5d">　耕平の思考が停止する。</line>
+        <line char="mizu2d kouh5d">　ありえないことに出くわした、二人の混乱はそう告げている。</line>
+    </page>
+    <char_l tatie="st_nuki2.png"/>
+    <char_r tatie="st_yuki7.png"/>
+    <char_r tatie="st_yuki5.png"/>
+    <page>
+        <line char="nuki2 yuki5">「ふふーんだ私は何年も前に予約済みだったのですー！　わたしが今どれだけ有利なのか雪にはわからないさー！」</line>
+        <line char="nuki2 yuki5">「愛に時間などあるものか！」</line>
+        <line char="nuki2 yuki5">　雪と貫は気づいていない。</line>
+    </page>
+    <char_all_clear/>
+    <page>
+        <line>「ずいぶん、弱くなっちゃったんだ」</line>
+        <line>　僕の視界が動く。</line>
+    </page>
+    <page>
+        <line>「どうして……ここに」</line>
+        <line>「柾木が、ここにいるから」</line>
+    </page>
+    <page>
+        <line>　これが自分だから。そういった彼女。いつでも身につけるものに必ず青の色があった。</line>
+        <line>　誰よりも目を引き、いるだけで彼女は場所を塗りかえていた。</line>
+    </page>
+    <page>
+        <line>　――だから僕は彼女に引き寄せられて。</line>
+    </page>
+    <page>
+        <line>　言葉がやむ。</line>
+        <line>　仰向けに倒れた僕のすぐ側で、彼女が屈んでいる。</line>
+        <line>　風が吹く。彼女は髪が乱れないよう手で押さえた。</line>
+        <line>　そんな仕草だけで、この場の全員が引きつけられた。</line>
+    </page>
+    <page>
+        <line>　白めいた青。</line>
+        <line>　いつの間にか、予感があった。</line>
+    </page>
+    <page>
+        <line>　青めいた白。</line>
+        <line>　かつて手の中にあったひとひらが宙に消えた。</line>
+    </page>
+    <page>
+        <line>　白い肌、かすかに青みを帯びた目に僕が映りこんでいる。動けない、制圧下にある意思がどれだけの自由を持つかという話だ。</line>
+        <line>　僕に彼女のすべてがよみがえった。</line>
+    </page>
+    <page>
+        <line>　――[ruby text="あお"]蒼[/ruby]。僕はこの町へ、彼女から逃げてきたのに。</line>
+    </page>
+    <bg_hyojib bgb="ev_t04_aoop1.png"/>
+    <bg_kirikae/>
+    <page>
+        <line>「来ちゃった」</line>
+    </page>
+    <fbgm/>
+    <wait time="1500"/>
+    <cm/>
+    <char_all_clear/>
+    <video file="h12sp_mv_gamma.mp4"/>
+    <jump file="apr_scene02_newTerm.iet" label="start"/>
+</iet>

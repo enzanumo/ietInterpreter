@@ -1,0 +1,609 @@
+﻿
+
+[SAVELABLE TEXT="プロローグ"] 
+[cm]
+
+
+
+
+
+
+
+
+
+
+
+[bg_hyojib bgb="t04_title01.png"]
+[i_kirikae]
+[wait time="2000"]
+[call file="sub.iet" label="h12_set_mw"]
+[bg_hyojib bgb="bg_black.png"]
+[bg_kirikae]
+
+
+
+
+
+
+[bgm bgm="haru_bgm_02_aoi_sakura" lp="true"]
+　桜の花びらが落ちる。その一続きが僕の目に映る。[sl]
+　強い風が吹く。腕を前にかざすようにして遮る。[pg]
+　それでも目の奥が痛むようで、瞼を閉じたままでいなければならなかった。[sl]
+　強い力はいつだって直視から遠ざかる。[pg]
+
+[fbgm]
+[se se="SE_sakurawind.wav" lp="false"]
+[wait time="1500"]
+[bg_hyojib bgb="bg_t04_stat1.png"]
+[bg_kirikae]
+
+[bgm bgm="haru_bgm_07_normal" lp="true"]
+[char_c tatie="st_mizu4d.png"]
+「うひゃう」[sl]
+　[ruby text="とおやま"]遠山[/ruby][ruby text="みずほ"]瑞穂[/ruby]が妙な声を出す。[sl]
+　数秒のうちに、風が弱まってゆく。僕はさらに少し待ってから腕を下ろした。[pg]
+
+[char_all_clear]
+[char_l tatie="st_sana1d.png"]
+「今のすごかったよー」[sl]
+
+
+[char_r tatie="st_kouh1d.png"]
+「もう春になっちまったのさね」[sl]
+　[ruby text="もりの"]森野[/ruby][ruby text="さなえ"]早苗[/ruby]、そして[ruby text="とおやま"]遠山[/ruby][ruby text="こうへい"]耕平[/ruby]がうなずきあう。僕にはわからない了解があるらしい。[pg]
+
+
+[char_r tatie="st_kouh2d.png"]
+「あの風だものな」[sl]
+　足下にはまっすぐな白線が引かれている。[sl]
+　目に映った桜の花びらはそこにない。[pg]
+
+
+[char_all_clear]
+「……あれ？」[pg]
+
+
+[char_c tatie="st_yuki1.png"]
+「[ruby text="まさき"]柾木[/ruby]？」[sl]
+　すぐ目の前を歩いていた[ruby text="と"]十[/ruby][ruby text="わ"]和[/ruby][ruby text="だ"]田[/ruby][ruby text="ゆき"]雪[/ruby]が僕を振り返る。[pg]
+
+
+[char_all_clear]
+「いや、何でも……雪、桜の花びらがついてる。首のところ」[sl]
+　僕は自分の首を指さす。[pg]
+
+
+[char_c tatie="st_yuki1.png"]
+「ああ、家の前を通ったからだろう」[sl]
+　雪は納得したように、自分の首をなでる。[pg]
+[char_all_clear]
+
+[char_l tatie="st_sana1d.png"]
+「雪んちの桜はもう咲いてるんだ」[sl]
+
+[char_r tatie="st_yuki1.png"]
+
+「南側の山桜は八分咲き。北側のソメイヨシノはまだかかる」[sl]
+　彼女の表情は動かない。口調はいつだって簡潔だ。[pg]
+
+
+[char_l tatie="st_kouh2d.png"]
+「自分の家の中を方角で示すってのは、いつ聞いても慣れないな」[sl]
+[char_r tatie="st_yuki3.png"]
+「仕方ない。長年仕えている女中でも戸惑うことがあるのだ」[pg]
+
+
+[char_all_clear]
+[char_c tatie="st_yuki1.png"]
+「取ってほしい」[sl]
+　雪のその静かな声は、電車の到着を告げる音で消え入りそうだった。[pg]
+[char_all_clear]
+
+　彼女は俯くようにして首筋をさらしていた。[sl]
+　白い首筋、そこになお白い山桜のひとひらがある。[pg]
+
+
+「え……僕がやるの？」[sl]
+[char_c tatie="st_yuki7.png"]
+「君にしか、触れられたくない」[pg]
+
+[char_all_clear]
+[char_l tatie="st_mizu2d.png"]
+「うぁお」[sl]
+
+
+[char_r tatie="st_kouh1d.png"]
+「こんなところで見せつけてくれますねえ」[sl]
+[char_c tatie="st_sana3d.png"]
+「舐めとってしまうがいいさー」[sl]
+　瑞穂たちが、勝手なことを言ってくれる。[pg]
+
+
+[char_all_clear]
+「……わかったよ。動かないで」[sl]
+[char_c tatie="st_yuki1.png"]
+「舐めるのか？」[sl]
+「やりません！」[sl]
+[char_all_clear]
+　僕は手を伸ばす。[pg]
+
+
+　不意に、問いが浮かんだ。[sl]
+　あの強い風で、どうして僕の目に映っていた桜の花びらは真下に落ちた？[sl]
+　――そもそも、この駅のホームの何処に桜の木がある？[pg]
+
+
+　――だとしたら。[pg]
+
+
+「僕は、何を見た？」[sl]
+[char_c tatie="st_yuki3.png"]
+「…首が痛くなってきたのだが」[sl]
+　雪の肌が微かに赤く色づいていた。[sl]
+[char_all_clear]
+　桜の白が際だつ。[pg]
+
+
+　僕の目が細まる。[sl]
+　何かの違和感を確かに認識している。[sl]
+　その原因を僕の目は見ている。それでいてわからない。[sl]
+　雪の首筋、桜の白、重なるものは。[pg]
+
+
+「――あお」[sl]
+　それは、桜の花にありえない、薄い青の色だった。[sl]
+　僕の指が花びらをつまみとった。[pg]
+
+
+[char_c tatie="st_mizu1d.png"]
+「どうしちゃいました？」[sl]
+「ぼうっとした」[sl]
+[char_c tatie="st_mizu2d.png"]
+「どうしてまた」[sl]
+「春のせいかな」[sl]
+[char_c tatie="st_kouh1d.png"]
+「太陽が黄色かったせいじゃないかや」[sl]
+「僕は人生の理不尽と戦っているつもりは――」[pg]
+
+
+[char_all_clear]
+　この町に来てからのことを思い返した。[pg]
+
+
+「――いくらかはあるんだけど」[pg]
+
+
+[char_c tatie="st_sana2d.png"]
+「んー、なんかそれ私たちが悪人みたいな言われようなんだけど」[sl]
+　僕は三人の目をじっと見つめる。[pg]
+
+
+[char_c tatie="st_kouh3d.png"]
+「よせよ……、いくら俺のことが気になってるからってこんな人前じゃ照れるさね」[sl]
+　思いは届かなかったようだ。[pg]
+
+
+[char_c tatie="st_kouh1d.png"]
+「そろそろかや」[sl]
+　耕平が頭上のスピーカを見上げた。[pg]
+
+
+[char_all_clear]
+「こっち」[sl]
+[char_c tatie="st_yuki2.png"]
+「む。どうしてわざわざ端にゆくのだ」[pg]
+「[ruby text="ぬき"]貫[/ruby]が乗った電車の駅、階段が先頭車両近くにあるんだ」[pg]
+[char_c tatie="st_mizu3d.png"]
+「だからって、そこから直接乗ったとは限らないんじゃ？」[sl]
+「ギリギリで乗りこんだはずだから、こっち」[sl]
+[char_all_clear]
+　僕の後を雪たちがついてくる。反対する理由もなかったようだ。[pg]
+
+
+[char_c tatie="st_mizu1d.png"]
+「貫ちゃんって柾木さんの従姉妹なんですよね？」[sl]
+[char_c tatie="st_kouh3d.png"]
+「どんな子なのさね。お前みたいにけったいな奴なのかや」[pg]
+「どういう意味」[sl]
+[char_c tatie="st_kouh1d.png"]
+「そういう意味」[sl]
+　少し落ちこんだ。[pg]
+
+
+[char_c tatie="st_yuki3.png"]
+「ああ……、なんだか緊張してきた」[sl]
+「大丈夫。貫は誰とでもつきあえる性格だ」[sl]
+[char_c tatie="st_yuki1.png"]
+「そうか。とはいえ、お義姉さんと呼ばれるのは[ruby text="おもは"]面映[/ruby]ゆそうだから心の準備をしているのだ」[pg]
+「何段かステップをすっ飛ばしているかと思われるのですが雪様」[pg]
+[char_c tatie="st_sana3d.png"]
+「ステップを踏むつもりはあるんだ」[sl]
+　最近、僕の（人生の）逃げ道が削られつつあるようだ。[pg]
+
+
+[char_all_clear]
+「これだから現実は救いがたい」[sl]
+　手のひらにはまだ桜の花が残っていた。[pg]
+
+
+「うん？」[sl]
+[char_c tatie="st_yuki1.png"]
+「それか」[sl]
+　雪がいつの間にか僕のすぐ横にいた。あまり視力がよくないからか、少し前屈み気味になっている。また彼女の首筋が吐息の届く距離に近づいていた。[pg]
+
+
+[char_c tatie="st_yuki7.png"]
+「珍しいだろう」[sl]
+「いや、ここまで綺麗なのはそう何人も」[sl]
+[char_c tatie="st_yuki2.png"]
+「む。何を言っている」[sl]
+[char_all_clear]
+「青いね」[sl]
+　僕は強引に話題を引き戻す。[pg]
+　よく見なければ気づかないほどの違いだ。白だと思っていた色は微かに青みがかっている。[pg]
+
+
+[char_c tatie="st_yuki1.png"]
+「神の桜だ」[sl]
+「聞いたことない」[sl]
+[char_c tatie="st_yuki7.png"]
+「学者先生も見たことがないと言っていた。多紙の桜は特殊な色素が含まれていて、光の加減で青っぽくなる」[pg]
+
+
+[char_all_clear]
+「ふぅん」[sl]
+　僕はつまんだ桜を日差しにかざしてみる。確かに、そうするとさらに青味がはっきりと見えた。[pg]
+
+
+「でも、言われないとわからないね」[sl]
+[char_c tatie="st_yuki2.png"]
+「神の娘が残した奇跡だと言われているのだが……、アレの娘がそんな大層な事をしたとはどうにも信じがたい」[sl]
+[char_all_clear]
+　僕らはこの土地を守る神、その姿を思い浮かべる。[pg]
+
+
+
+
+
+
+
+
+
+「……はぁ」[sl]
+　全員、ため息。[pg]
+
+
+[char_l tatie="st_sana1d.png"]
+「今年はどうするのー？」[sl]
+
+[char_l tatie="st_sana1d.png"]
+[char_r tatie="st_yuki1.png"]
+「いつもどおりでいいだろう」[sl]
+[char_l tatie="st_kouh1d.png"]
+「んだな」[sl]
+　僕は黙っていた。[pg]
+
+
+[char_all_clear]
+[char_c tatie="st_kouh1d.png"]
+「花見。毎年やっとるのさね」[sl]
+　耕平が補足してくれた。十和田家の持ち物である山には山桜の群生している場所があり、毎年夜に花見をしているのだと説明された。[pg]
+
+
+[char_all_clear]
+「そう」[sl]
+[char_c tatie="st_sana4d.png"]
+「またそんな顔するー」[sl]
+「どんな顔？」[sl]
+[char_c tatie="st_sana2d.png"]
+「『僕はまだこの土地じゃよそ者です』って顔」[sl]
+　早苗の指摘は正しい、だから僕は言い返す言葉がなかった。[pg]
+
+
+[char_all_clear]
+[char_c tatie="st_mizu2d.png"]
+「今年は新入りが二人も来るんだから、楽しくなりますよ」[sl]
+「二人」[sl]
+[char_c tatie="st_mizu1d.png"]
+「柾木さんと、貫ちゃん」[sl]
+　言って、瑞穂が笑った。少し、僕の救いがたさが薄れた。[pg]
+
+
+[char_all_clear]
+「来た」[sl]
+[se se="SE_TrainComes.wav" lp="false"]
+[bg_hyojib bgb="bg_black.png"]
+[bg_kirikae]
+[wait time="9000"]
+[bg_hyojib bgb="bg_t04_stat2.png"]
+[bg_kirikae]
+[fse]
+　四両編成の電車が停車、僕たちの目の前で降車扉が真横に開いてゆく。[sl]
+　ガラスの向こうに貫らしい姿が見えたから、僕は手を挙げる。[pg]
+
+
+[fbgm]
+
+[char_c tatie="st_nuki3.png"]
+「柾木ちゃん約束通りやってきたのだよ！」[pg]
+
+
+[bgm bgm="haru_bgm_08_dash" lp="true"]
+[se se="se_kick_01.wav" lp="false"]
+[qk tm="1000"]
+　手を挙げた格好のまま僕の身体は『くの字』になって真後ろへ。[sl]
+「うおっ！？」[sl]
+　反射神経に優れた耕平は早苗を抱き寄せて真横へ回避する。[pg]
+[se se="se_down.wav" lp="false"]
+[qk tm="1000"]
+　だから僕はタックルの勢いを殺すことができないままホームに叩きつけられた。[pg]
+
+
+[char_c tatie="st_mizu2d.png"]
+「柾木さんって毎回ワイヤーアクションぽく吹っ飛んでるよね」[sl]
+[char_c tatie="st_kouh1d.png"]
+「受け身の練習でもしとくかや。つきあってやるぞ」[sl]
+　いい案だと思った。[pg]
+
+
+[char_all_clear]
+「んーんー、柾木ちゃんのにおいー」[sl]
+　貫が仰向けになった僕の胸の上に、犬っぽく顔をこすりつける。[pg]
+
+
+「体当たりはもうしないって約束はどうなった？」[pg]
+「うはは」[sl]
+　ごまかされた。どうして僕との約束は誰も守ってくれないのかと息を吐く。[sl]
+「離れて」[sl]
+　投げ出されていた手を動かし、彼女の額を前に押す。[pg]
+
+
+「これはレディに対してずいぶんとご無体な扱いだと思うのだよ？」[sl]
+「重たいから」[sl]
+「苛烈な！」[sl]
+　ようやく顔が見えた。[pg]
+
+
+「久しぶり、貫」[sl]
+[char_c tatie="st_nuki1.png"]
+「柾木ちゃんも」[sl]
+　僕はのしかかってくる貫の身体の下から抜け出す。[pg]
+
+
+[char_c tatie="st_kouh1d.png"]
+「なんか、ずいぶんと強烈だな」[sl]
+　にっ、と耕平が笑う。[pg]
+
+
+[char_c tatie="st_mizu1d.png"]
+「えっと、貫ちゃんって呼んで、いい、[l]
+[wait time="500"]
+[char_c tatie="st_mizu2d.png"]
+の――」[sl]
+　その場の全員は前を向いて。[pg]
+
+
+[char_c tatie="st_mizu3d.png"]
+「――何センチ、あるの？」[sl]
+[char_c tatie="st_nuki2.png"]
+「百八十八センチ！」[sl]
+　そして上を見上げた。[pg]
+
+
+[char_c tatie="st_mizu2d.png"]
+「うをでけー。何食ったらそんなんなるの」[sl]
+　頭一つ以上身長差のある瑞穂は、目を丸くする。[pg]
+
+
+[char_c tatie="st_nuki1.png"]
+「バレーやろうぜバレー！　そしたらでっかくなるよ！」[sl]
+[char_c tatie="st_sana3d.png"]
+「あー、うちの学校はバレーまぁまぁ強かったねー」[sl]
+　早苗が変なところで納得している。[pg]
+
+
+[char_all_clear]
+「バレー特待生で進学すると思っていたけど」[sl]
+[char_c tatie="st_nuki2.png"]
+「ぜんぶ落ちた！」[sl]
+[char_c tatie="st_mizu2d.png"]
+「明るくゆわれても」[sl]
+「本番に弱いの、まだ治ってない？」[sl]
+[char_c tatie="st_nuki1.png"]
+「柾木ちゃんがいなかったからね。いるときは全戦全勝さ」[pg]
+「受験に同席するわけにはいかないだろう」[pg]
+
+
+[char_all_clear]
+　体格、技術において[ruby text="こんの"]紺野[/ruby][ruby text="ぬき"]貫[/ruby]は突き抜けている。僕は見たことがないのだけれど、貫は本番になるとどうしてか結果が残せない。[sl]
+
+[bg_hyojib bgb="bg_black.png"]
+[bg_kirikae]
+[se se="SE_TrainLeaves.wav" lp="false"]
+　電車がホームを離れてゆく。[pg]
+[wait time="4000"]
+[wait time="1000"]
+[bg_hyojib bgb="bg_t04_stat1.png"]
+[bg_kirikae]
+
+[char_c tatie="st_nuki1.png"]
+「同席アリだったら来てくれた？」[sl]
+「貫だからね、行くよ」[sl]
+[char_c tatie="st_nuki2.png"]
+「うは、照れる！」[sl]
+　貫の腕が閃いた。[sl]
+[char_all_clear]
+[se se="se_kick_01.wav" lp="false"]
+[qk tm="500"]
+「バックアタック！」[pg]
+　僕の頭はバレーボール同然だった。斜め下に吹き飛びホームのアスファルトに衝突、身体が一メートルの高さまで跳ねた。[pg]
+
+
+[char_c tatie="st_mizu4d.png"]
+「生きてる……、よね？」[pg]
+
+[char_all_clear]
+
+[char_c tatie="st_nuki2.png"]
+
+「うはー、都会の[ruby text="けんそう"]喧噪[/ruby]から離れてビルドアップしたと思ったのに。柾木ちゃんもヤワいままなのはいかんと思うのだよ」[sl]
+「場所は関係ない……、というかスパイクしないって約束は？」[pg]
+[char_c tatie="st_nuki1.png"]
+「やっぱバレーやらないからそうなるんだよ」[sl]
+　聞いちゃいなかった。[pg]
+
+
+[char_all_clear]
+
+　ホームに降りた客はまばらだった。何人かは無人の改札へと向かって行く。[pg]
+
+
+[char_r tatie="st_yuki2.png"]
+「柾木、君の身体はこの町にとって大切なのだ。軽率さは敵だぞ」[pg]
+
+[char_l tatie="st_nuki1.png"]
+
+
+「この古き良きジャパニーズさんは誰ですか？」[sl]
+
+
+[char_r tatie="st_yuki1.png"]
+「十和田雪だ。仲良くやろう」[sl]
+[char_l tatie="st_nuki2.png"]
+
+「柾木ちゃんとどんな関係？」[sl]
+[char_r tatie="st_yuki7.png"]
+
+「妻だ」[sl]
+　雪は言い切った。[pg]
+
+
+[char_all_clear]
+　ホームにダウンしたままの僕の頭上で、雪と貫がなにやら言い合っていた。騒いでいるのは僕たちだけで、不思議と周囲の静けさが感じられる。[sl]
+　いま立ち上がれば、口論に巻きこまれてしまう。もう少しだけ、このままで。[pg]
+
+
+[fbgm]
+[se se="SE_sakurawind.wav" lp="false"]
+　また、強い風が吹く。[pg]
+
+
+[bgm bgm="haru_bgm_12_kawarukoto" lp="true"]
+　ホームの白線、その上にとどまった神の桜。[sl]
+　あるかなしかの青が、僕の目から離れない。[sl]
+　暖かいようで、どこか冷たい突風が花びらを真上にさらってゆく。[sl]
+　春の足音、そんなことを僕は思う。[pg]
+
+
+「――楽しそうだね」[pg]
+
+
+　声。[sl]
+　そして、僕の視界に信じられないくらい細い両脚が入りこむ。[pg]
+
+
+[char_l tatie="st_mizu2d.png"]
+「ふえ！？」[sl]
+　瑞穂の呼吸が止まった。[sl]
+[char_r tatie="st_kouh5d.png"]
+「嘘だろ」[sl]
+　耕平の思考が停止する。[sl]
+
+　ありえないことに出くわした、二人の混乱はそう告げている。[pg]
+
+
+
+[char_l tatie="st_nuki2.png"]
+[char_r tatie="st_yuki7.png"]
+「ふふーんだ私は何年も前に予約済みだったのですー！　わたしが今どれだけ有利なのか雪にはわからないさー！」[sl]
+[char_r tatie="st_yuki5.png"]
+「愛に時間などあるものか！」[sl]
+　雪と貫は気づいていない。[pg]
+
+
+[char_all_clear]
+「ずいぶん、弱くなっちゃったんだ」[sl]
+　僕の視界が動く。[pg]
+
+
+「どうして……ここに」[sl]
+「柾木が、ここにいるから」[pg]
+
+
+　これが自分だから。そういった彼女。いつでも身につけるものに必ず青の色があった。[sl]
+　誰よりも目を引き、いるだけで彼女は場所を塗りかえていた。[pg]
+
+
+　――だから僕は彼女に引き寄せられて。[pg]
+
+
+　言葉がやむ。[sl]
+　仰向けに倒れた僕のすぐ側で、彼女が屈んでいる。[sl]
+　風が吹く。彼女は髪が乱れないよう手で押さえた。[sl]
+　そんな仕草だけで、この場の全員が引きつけられた。[pg]
+
+
+　白めいた青。[sl]
+　いつの間にか、予感があった。[pg]
+
+
+　青めいた白。[sl]
+　かつて手の中にあったひとひらが宙に消えた。[pg]
+
+
+　白い肌、かすかに青みを帯びた目に僕が映りこんでいる。動けない、制圧下にある意思がどれだけの自由を持つかという話だ。[sl]
+　僕に彼女のすべてがよみがえった。[pg]
+
+
+　――[ruby text="あお"]蒼[/ruby]。僕はこの町へ、彼女から逃げてきたのに。[pg]
+
+
+[bg_hyojib bgb="ev_t04_aoop1.png"]
+[bg_kirikae]
+「来ちゃった」[pg]
+[fbgm]
+[wait time="1500"]
+
+
+
+
+[cm]
+
+
+
+
+
+[char_all_clear]
+
+
+
+
+
+
+
+
+
+
+
+
+[video file="h12sp_mv_gamma.mp4"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[jump file="apr_scene02_newTerm.iet" label="start"]
+
