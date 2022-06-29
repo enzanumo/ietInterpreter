@@ -24,7 +24,7 @@ def xml2iet(file: Path):
 
 
 if __name__ == '__main__':
-    path = Path(r"C:\Users\Lahm\Dev\pyproj\sandbox\ietInterpreter\scripts\6")
+    path = Path(".")
     for iet in path.glob("./*.iet"):
         # print('Processing: {}'.format(iet.name), flush=True, file=sys.stderr)
         iet2xml(iet)
