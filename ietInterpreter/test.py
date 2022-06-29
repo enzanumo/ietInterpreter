@@ -8,7 +8,7 @@ import utils
 class MyTestCase(unittest.TestCase):
     def test_xml_equals_iet(self):
         self.maxDiff = None
-        files = Path('.').glob('./scripts/*/*.iet')
+        files = Path('.').glob('./test/*.iet')
         for file in files:
             filepath = str(file.absolute())
             with self.subTest(file=filepath):
@@ -34,7 +34,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_xml_string_equals_iet_string(self):
         self.maxDiff = None
-        files = Path('.').glob('./scripts/*/*.iet')
+        files = Path('.').glob('./test/*.iet')
         for file in files:
             filepath = str(file.absolute())
             with self.subTest(file=filepath):

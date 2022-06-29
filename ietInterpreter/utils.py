@@ -67,16 +67,6 @@ class XmlizedIETContentHandler(ContentHandler):
             self.io.seek(0)
 
 
-# class IgnoreErrorHandler(ErrorHandler):
-#     def error(self, exception):
-#         print('err', end='')
-#         print(exception)
-#
-#     def fatalError(self, exception):
-#         print('fatal', end='')
-#         print(exception)
-
-
 class IETWarning(Warning):
     pass
 
@@ -169,12 +159,6 @@ def xmlizes(rows: Iterable[str], filepath=None) -> Iterable[str]:
             yield f"<tag>{row}</tag>\n"
             continue
         # endregion
-
-        # if row[0] not in ("「", '　'):
-        #     warn(
-        #         'Exceptional starting character:"{}" around "{}"'.format(row[0], row),
-        #         linenum, filepath
-        #     )
 
         if pg_flag == 0:
             yield "<p>\n"
